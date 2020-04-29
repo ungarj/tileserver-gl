@@ -128,8 +128,9 @@ footer{
   font-size:12px;
 }
 footer img{
-  width: 118px;
-  height: 32px;
+  width: 252px;
+  height: auto;
+  margin: 20px 0 10px 0;
 }
 footer p {
   margin-top:0;
